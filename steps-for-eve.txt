@@ -1,0 +1,7 @@
+create aPI
+------------------
+1. install express
+2. create express object
+3. create express routes
+4. create express listener
+5. optionally connect to a database
